@@ -49,8 +49,7 @@ Credits
 This template is inspired by contributions from the web development community. Special thanks to Vecteezy for providing the website’s vector graphics.
 
 Contact Information
-If you have any questions or feedback, feel free to reach out at adhishadhish001@gmail.com.
+JANMEJAY SINGH
 
-License
-This project is licensed under the MIT License.
+
 
